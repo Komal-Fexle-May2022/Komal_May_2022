@@ -1,0 +1,10 @@
+public class Sum
+{
+public static void main(String args[])
+{
+int a=17,b=7,sum;
+sum = a+b;
+System.out.println("Sum of two number");
+System.out.println(sum);
+}
+}
