@@ -204,6 +204,7 @@
         <name>RecordType</name>
     </types>
     <types>
+        <members>CountryMapController</members>
         <members>CustomerPurchaseOrderController</members>
         <members>EmployeePurchaseOrderController</members>
         <members>KeywordsController</members>
