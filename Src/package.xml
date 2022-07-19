@@ -204,7 +204,12 @@
         <name>RecordType</name>
     </types>
     <types>
-    <members>CollectionsMethodController</members>
+        <members>ApexPropertiesExample</members>
+        <members>ConstructorController</members>
+        <members>LoopController</members>
+        <members>MethodCallingController</members>
+        <members>OverloadingController</members>
+        <members>CollectionsMethodController</members>
         <members>DataTypesController</members>
         <members>ExpressionsAndOperatorsController</members>
         <members>HelloWorldTestClass</members>
