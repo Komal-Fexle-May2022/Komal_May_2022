@@ -204,6 +204,11 @@
         <name>RecordType</name>
     </types>
     <types>
+        <members>CustomerPurchaseOrderController</members>
+        <members>EmployeePurchaseOrderController</members>
+        <members>KeywordsController</members>
+        <members>ProcessPurchaseOrder</members>
+        <members>PurchaseOrder</members>
         <members>ApexPropertiesExample</members>
         <members>ConstructorController</members>
         <members>LoopController</members>
