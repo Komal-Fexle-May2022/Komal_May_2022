@@ -204,6 +204,13 @@
         <name>RecordType</name>
     </types>
     <types>
+    <members>CollectionsMethodController</members>
+        <members>DataTypesController</members>
+        <members>ExpressionsAndOperatorsController</members>
+        <members>HelloWorldTestClass</members>
+        <members>HieraricalListMapController</members>
+        <members>MyHelloWorld</members>
+        <members>StarPatternController</members>
         <members>HelloWorldTestClass</members>
         <members>MyHelloWorld</members>
         <members>StarPatternController</members>
